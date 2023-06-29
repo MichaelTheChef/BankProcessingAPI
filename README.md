@@ -1,2 +1,2 @@
 # BankProcessingAPI
-Project I made here in high school  
+Project I made at school  
